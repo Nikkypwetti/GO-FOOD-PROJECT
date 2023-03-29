@@ -49,7 +49,7 @@ nav a {
     align-items: flex-end;
     width: 100%;
     height: 100vh;
-    background-image: url(../IMG/GOTAXI.jpg), url(../IMG/GOPHONE.jpg), url(../IMG/asset2.jpg);
+    background-image: url(GOTAXI.jpg), url(GOPHONE.jpg), url(asset2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -59,14 +59,14 @@ nav a {
 
 @keyframes slider{
     0%{
-        background-image: url(../IMG/GOTAXI.jpg);
+        background-image: url(GOTAXI.jpg);
     }
     33%{
-        background-image: url(../IMG/GOPHONE.jpg);
+        background-image: url(GOPHONE.jpg);
     }
 
     66%{
-        background-image: url(../IMG/asset2.jpg);
+        background-image: url(asset2.jpg);
     }
 }
 
@@ -138,7 +138,7 @@ nav a {
 }
 
 .section4 {
-    background-image: url(../IMG/banner.png);
+    background-image: url(banner.png);
     background-repeat: repeat-x; 
     background-size: 26% 100px;
     background-position: bottom 150px right 50%;
@@ -297,7 +297,7 @@ nav a {
 
 .easeimage {
     width: 50%;
-    background-image: url(../IMG/hand.png);
+    background-image: url(hand.png);
     background-repeat: no-repeat;
     margin: 50px 50px 0px 50px;
   }
@@ -309,7 +309,7 @@ nav a {
     width: 252px;
     background-repeat: no-repeat;
   
-    background-image: url(../IMG/CAB.jpg);
+    background-image: url(CAB.jpg);
     animation-duration: 4s;
     animation-delay: 0s;
     animation-iteration-count: infinite;
@@ -321,22 +321,22 @@ nav a {
   
   @keyframes easedisplay {
     0% {
-      background-image: url(../IMG/CAB.jpg);
+      background-image: url(CAB.jpg);
     }
     33% {
-      background-image: url(../IMG/PLEASE.jpg);
+      background-image: url(PLEASE.jpg);
     }
     66% {
-      background-image: url(./view3.jpg);
+      background-image: url(view3.jpg);
     }
     100% {
-      background-image: url(./view3.jpg);
+      background-image: url(view3.jpg);
     }
   }
   
 .section6{
     background-color: white;
-    background-image: url(../IMG/ilustrasion-scene\ HOUSE.png);
+    background-image: url(ilustrasion-scene\ HOUSE.png);
     width: 100%;
     height: 280px;
     background-repeat: no-repeat;
@@ -355,7 +355,7 @@ nav a {
   #car1 {
     background-size: auto;
     background-repeat: no-repeat;
-    background-image: url(../IMG/);
+    background-image: url();
   
     animation-duration: 10s;
     animation-timing-function: linear;
@@ -380,7 +380,7 @@ nav a {
     background-size: auto 100px;
     background-repeat: no-repeat;
     background-position: 700px 0;
-    background-image: url(../IMG/ilustrasi-vehicle-reverse\ \(1\).png);
+    background-image: url(ilustrasi-vehicle-reverse\ \(1\).png);
   
     animation-duration: 10s;
     animation-timing-function: linear;
@@ -405,7 +405,7 @@ nav a {
   #car3 {
     background-size: auto 100px;
     background-repeat: no-repeat;
-    background-image: url(../IMG/ilustrasion-vehicle.png);
+    background-image: url(ilustrasion-vehicle.png);
   
     animation-duration: 10s;
     animation-timing-function: linear;
